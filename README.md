@@ -1,4 +1,4 @@
-# DEEPTRACE
+
 
 **"Trace the Evidence. Reveal the Truth."**
 
@@ -101,3 +101,6 @@ FastAPI backend that returns the same result contract
 - Uploaded media is processed locally in the browser; no cloud storage or encryption is provided.
   Do not upload sensitive personal information.
 - Demo cases use synthetic poster art and simulated metadata (clearly labeled).
+=======
+# DeepTrace
+>>>>>>> 3c0aaabdaf49be7323dec722a8aa9adba8bdfaa1
